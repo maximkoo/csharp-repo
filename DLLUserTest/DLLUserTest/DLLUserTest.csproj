@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="GetSetTest">
+      <HintPath>..\..\GetSetTest\GetSetTest\bin\Debug\netcoreapp3.1\GetSetTest.dll</HintPath>
+      <EmbedInteropTypes></EmbedInteropTypes>
+    </Reference>
+  </ItemGroup>
+
+</Project>
